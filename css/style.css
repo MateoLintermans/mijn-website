@@ -1,0 +1,39 @@
+body { color: #000; background-color: #D7D8D9; }
+
+
+footer {
+    background-color: #2f3640;
+    color: #ffffff;
+    padding: 20px 0;
+}
+
+
+.social-icons a {
+    color: #2f3640; 
+   
+}
+
+
+
+.btn-primary {
+    background-color: #2f3640;
+    color: #ffffff;
+    
+}
+
+
+.bi-geo-alt-fill,
+.bi-telephone-fill,
+.bi-envelope-fill {
+    color: #2f3640;
+}
+
+
+
+
+
+
+
+
+
+
